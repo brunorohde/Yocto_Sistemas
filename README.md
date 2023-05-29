@@ -21,13 +21,23 @@ Eu não possuo formação na área de engenharia elétrica ou eletrônica, sou a
 ## Lista de projetos
 
 Yocto PSU
+
 Yocto 3340 VCO
+
 Yocto OTA VCF
+
 Yocto OTA VCA
+
 Yocto ASR
+
 Yocto LFO
+
 Yocto AMP
+
 Yocto Noise
+
 Yocto NIxer
+
 Yocto MIDICV
+
 
